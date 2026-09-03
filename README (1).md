@@ -59,5 +59,5 @@ Student with an interest in software engineering, software development and cyber
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amihatovic07&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
----
+
 <p align="center"><i>⭐️ From <a href="https://github.com/Amihatovic07">Amihatovic07</a></i></p>
