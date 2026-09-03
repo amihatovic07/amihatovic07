@@ -54,8 +54,8 @@ Student with an interest in software engineering, software development and cyber
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Amihatovic07&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-## 📈 GitHub Activity Graph
+### 📈 GitHub Activity Graph
 
-[![Alex's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amihatovic07&theme=github-compact&hide_border=true)](https://github.com/amihatovic07)
+![Alex's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amihatovic07)
 
 <p align="center"><i>⭐️ From <a href="https://github.com/amihatovic07">amihatovic07</a></i></p>
