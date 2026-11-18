@@ -12,7 +12,7 @@
 
 Student with an interest in software engineering, software development and cyber security, my main hobby is creating a useful program which helps end user and also helps me in training and learning.
 
-🌱 &nbsp;I'm currently learning **Program languanges**  
+🌱 &nbsp;I'm currently learning **Program languages**  
 ⚡ &nbsp;Fun fact: **I am only starting for now, i will do my best to learn as much as possible**  
 💬 &nbsp;Ask me about **C++, Python, Shell, SQL, Java Script**
 
